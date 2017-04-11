@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,8 +13,8 @@
     <div class="indexbg">
         <div class="container">
             <div class="language">
-                <span class="en"><a href="/en/technology">English</a></span>
-                <span class="cn"><a href="/cn">简体中文</a></span>
+                <span class="en"><a href="/en/technology.php">English</a></span>
+                <span class="cn"><a href="/cn/technology.php">简体中文</a></span>
             </div>
             <div class="enter">
                 <a class="ilink linktechnology" href="/cn/technology.php" target="_self" title="科技"></a>
