@@ -18,7 +18,7 @@
             </div>
             <div class="enter">
                 <a class="ilink linktechnology" href="/cn/technology.php" target="_self" title="科技"></a>
-                <a class="ilink linkdesign" href="/cn/design.php" target="_self" title="设计"></a>
+                <a class="ilink linkdesign" href="/cn/technology.php" target="_self" title="设计"></a>
             </div>
         </div>
     </div>
