@@ -10,11 +10,20 @@
     <link rel="stylesheet" href="/css/css.css">
 </head>
 <body>
-    <div class="container indexbg">
-        <div class="language">
-            <span class="en"><a href="/en">English</a></span>
-            <span class="cn"><a href="/cn">中文</a></span>
+    <div class="indexbg">
+        <div class="container">
+            <div class="language">
+                <span class="en"><a href="/en/technology">English</a></span>
+                <span class="cn"><a href="/cn">简体中文</a></span>
+            </div>
+            <div class="enter">
+                <a class="ilink linktechnology" href="/cn/technology.php" target="_self" title="科技"></a>
+                <a class="ilink linkdesign" href="/cn/design.php" target="_self" title="设计"></a>
+            </div>
         </div>
+    </div>
+    <div class="container">
+        <div class="indexbrand"><a href="/cn/company.php"><img src="images/17logo.png" alt=""></a></div>
     </div>
     <script src="js/jquery-1.11.1.min.js"></script>
 </body>

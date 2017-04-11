@@ -42,5 +42,21 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
+a{text-decoration: none;color:rgba(255,255,255,1);}
+a:hover{color:rgba(255,255,255,.7);}
 .container{width:1200px;margin:auto;}
+.indexbg{background: url(../images/index_bg.jpg) no-repeat center; width:100%;height: 462px;position: relative;}
+.indexbg .language{float: right;width:200px;margin-top:30px;font-size: 14px;}
+.indexbg .cn,.pic .cn,.indexbg .en,.pic .en{display: inline-block;background: url(../images/china.png)  no-repeat ; padding-left:26px;margin-left: 10px;line-height:18px; }
+.indexbg .cn a,.pic .cn a,.indexbg .en a,.pic .en a{display: block;width:100%; height: 100%;}
+.indexbg .en,.pic .en{background: url(../images/UK.png) no-repeat ;margin-left:0;}
+.indexbg .enter{width:700px;height: 102px;position: absolute; bottom:100px; margin-left:250px; background: url(../images/logotext_cn.png) no-repeat;}
+.indexbrand{margin:100px  0 0 450px;}
+.indexbg .enter .linktechnology{height: 100%; width: 400px; display: block; float: left;}
+.indexbg .enter .linkdesign{float: right; height: 100%; width:235px;display: block;}
+
+.pic{position: relative;}
+.pic .language{right:30px; top:30px; position: absolute;font-size: 14px;}
+.logo{position:absolute;left:50px;top:50px;}
+.nav{position: absolute;right:60px;top:210px;font-size: 18px; font-weight: 400;}
+.nav li{height:30px;margin-bottom:6px;}
