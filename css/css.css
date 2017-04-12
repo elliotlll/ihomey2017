@@ -60,6 +60,7 @@ a:hover{color:rgba(255,255,255,.7);}
 .pic .more{width: 95px;height: 25px; background: rgba(98,193,225,1); line-height: 25px; text-align: center;position: absolute; bottom: 65px;right:90px;border-radius: 3px;}
 .pic .more a{color: #333;font-size: 12px;display: block;}
 .pic .language{right:30px; top:30px; position: absolute;font-size: 14px;}
+.black a{color:#333;}
 .logo{position:absolute;left:50px;top:50px;}
 .nav{position: absolute;right:60px;top:210px;font-size: 18px; font-weight: 400;}
-.nav li{height:30px;margin-bottom:6px; line-height: 30px; background: rgba(0,0,0,.5); padding:0 10px; border-radius: 5px; text-align: right;}
+.nav li{height:30px;margin-bottom:6px; line-height: 30px; background: rgba(0,0,0,.5); padding:0 20px; border-radius: 5px; text-align: right;}
