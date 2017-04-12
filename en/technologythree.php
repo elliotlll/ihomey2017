@@ -10,7 +10,7 @@
     </head>
     <body>
     <div class="container">
-        <div class="pic top"><img src="/images/technology/en/technology_one_r1_c1.jpg" alt="">
+        <div class="pic top"><img src="/images/technology/en/technology_three_r1_c1.jpg" alt="">
         <span class="logo"><a href="/"><img src="/images/logo.png" alt=""></a></span>
         <div class="language">
                 <span class="en"><a href="/en/technology.php">English</a></span>
@@ -23,19 +23,16 @@
                 <li><a href="contact.php">Contact</a></li>
             </ul>
         </div>
-        <div class="pic"><img src="/images/technology/en/technology_one_r2_c1.jpg" alt=""></div>
-        <div class="pic"><img src="/images/technology/en/technology_one_r3_c1.jpg" alt=""></div>
-        <div class="pic"><img src="/images/technology/en/technology_one_r4_c1.jpg" alt=""></div>
-        <div class="pic"><img src="/images/technology/en/technology_one_r5_c1.jpg" alt=""></div>
-        <div class="pic"><img src="/images/technology/en/technology_one_r6_c1.jpg" alt=""></div>
-        <div class="pic"><img src="/images/technology/en/technology_one_r7_c1.jpg" alt=""></div>
-        <div class="pic"><img src="/images/technology/en/technology_one_r8_c1.jpg" alt=""></div>
-        <div class="pic"><img src="/images/technology/en/technology_one_r9_c1.jpg" alt=""></div>
-        <div class="pic"><img src="/images/technology/en/technology_one_r10_c1.jpg" alt=""></div>
-        <div class="pic"><img src="/images/technology/en/technology_one_r11_c1.jpg" alt=""></div>
-        <div class="pic"><img src="/images/technology/en/technology_one_r12_c1.jpg" alt=""></div>
-        <div class="pic"><img src="/images/technology/en/technology_one_r13_c1.jpg" alt=""></div>
-        <div class="pic"><img src="/images/technology/en/technology_one_r14_c1.jpg" alt=""></div>
+        <div class="pic"><img src="/images/technology/en/technology_three_r2_c1.jpg" alt=""></div>
+        <div class="pic"><img src="/images/technology/en/technology_three_r3_c1.jpg" alt=""></div>
+        <div class="pic"><img src="/images/technology/en/technology_three_r4_c1.jpg" alt=""></div>
+        <div class="pic"><img src="/images/technology/en/technology_three_r5_c1.jpg" alt=""></div>
+        <div class="pic"><img src="/images/technology/en/technology_three_r6_c1.jpg" alt=""></div>
+        <div class="pic"><img src="/images/technology/en/technology_three_r7_c1.jpg" alt=""></div>
+        <div class="pic"><img src="/images/technology/en/technology_three_r8_c1.jpg" alt=""></div>
+        <div class="pic"><img src="/images/technology/en/technology_three_r9_c1.jpg" alt=""></div>
+        <div class="pic"><img src="/images/technology/en/technology_three_r10_c1.jpg" alt=""></div>
+        <div class="pic"><img src="/images/technology/en/technology_three_r11_c1.jpg" alt=""></div>
     </div>
     </body>
 </html>
