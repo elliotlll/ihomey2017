@@ -23,16 +23,17 @@
                 <li><a href="contact.php">Contact</a></li>
             </ul>
         </div>
-        <div class="pic"><img src="/images/technology/en1.jpg" alt=""><div class="more"><a href="technologyone.php">Learn More &gt;</a></div></div>
-        <div class="pic"><img src="/images/technology/en2.jpg" alt=""><div class="more"><a href="technologytwo.php">Learn More &gt;</a></div></div>
-        <div class="pic"><img src="/images/technology/en3.jpg" alt=""><div class="more"><a href="technologythree.php">Learn More &gt;</a></div></div>
-        <div class="pic"><img src="/images/technology/en4.jpg" alt=""><div class="more"><a href="technologyfour.php">Learn More &gt;</a></div></div>
-        <div class="pic"><img src="/images/technology/en5.jpg" alt=""><div class="more"><a href="technologyfive.php">Learn More &gt;</a></div></div>
-        <div class="pic"><img src="/images/technology/en6.jpg" alt=""><div class="more"><a href="technologysix.php">Learn More &gt;</a></div></div>
-        <div class="pic"><img src="/images/technology/en7.jpg" alt=""><div class="more"><a href="technologyseven.php">Learn More &gt;</a></div></div>
-        <div class="pic"><img src="/images/technology/en8.jpg" alt=""><div class="more"><a href="technologyeight.php">Learn More &gt;</a></div></div>
-        <div class="pic"><img src="/images/technology/en9.jpg" alt=""><div class="more"><a href="technologynine.php">Learn More &gt;</a></div></div>
-        <div class="pic"><img src="/images/technology/en10.jpg" alt=""><div class="more"><a href="technologyten.php">Learn More &gt;</a></div></div>
+        <div class="pic"><img src="/images/technology/en_new_r1_c1.jpg" alt=""><div class="more"><a href="technologythree.php">Learn More &gt;</a></div></div>
+        <div class="pic"><img src="/images/technology/en_new_r2_c1.jpg" alt=""><div class="more"><a href="technologytwo.php">Learn More &gt;</a></div></div>
+        <div class="pic"><img src="/images/technology/en_new_r3_c1.jpg" alt=""><div class="more"><a href="technology3.php">Learn More &gt;</a></div></div>
+        <div class="pic"><img src="/images/technology/en_new_r4_c1.jpg" alt=""><div class="more"><a href="technologyone.php">Learn More &gt;</a></div></div>
+        <div class="pic"><img src="/images/technology/en_new_r5_c1.jpg" alt=""><div class="more"><a href="technologyfive.php">Learn More &gt;</a></div></div>
+        <div class="pic"><img src="/images/technology/en_new_r6_c1.jpg" alt=""><div class="more"><a href="technologyfour.php">Learn More &gt;</a></div></div>
+        <div class="pic"><img src="/images/technology/en_new_r7_c1.jpg" alt=""><div class="more"><a href="technology7.php">Learn More &gt;</a></div></div>
+        <div class="pic"><img src="/images/technology/en_new_r8_c1.jpg" alt=""><div class="more"><a href="technology8.php">Learn More &gt;</a></div></div>
+        <div class="pic"><img src="/images/technology/en_new_r9_c1.jpg" alt=""><div class="more"><a href="technologyseven.php">Learn More &gt;</a></div></div>
+        <div class="pic"><img src="/images/technology/en_new_r10_c1.jpg" alt=""><div class="more"><a href="technologyeight.php">Learn More &gt;</a></div></div>
+        <div class="pic"><img src="/images/technology/en_new_r11_c1.jpg" alt=""><div class="more"><a href="technologysix.php">Learn More &gt;</a></div></div>
     </div>
     </body>
 </html>
